@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+language_tool_python
+pyresparser
+nltk
+spacy
+reportlab
